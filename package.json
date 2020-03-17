@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "eslint": "eslint --ext .vue --ext .js"
+    "eslint": "eslint linttest.js"
   },
   "devDependencies": {
     "eslint": "^6.7.1",
