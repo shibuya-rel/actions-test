@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "eslint": "eslint --ext .ts,.tsx --fix src/**"
+    "eslint": "eslint './src/**' --ext .vue --ext .js"
   },
   "devDependencies": {
     "eslint": "^6.7.1",
